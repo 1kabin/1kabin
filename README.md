@@ -32,24 +32,6 @@ Diploma of Information Technology — Networking & Cloud Engineering
 
 ---
 
-### 🌱 Currently Learning
-
-- **Machine Learning** — Supervised learning, neural networks, decision trees
-- **Mathematics for ML** — Linear algebra, calculus, probability & statistics
-- **Java & Software Engineering** — OOP, design patterns, TDD, CI/CD
-- **React & Web Development** — Frontend development with JavaScript
-
----
-
-### 🔭 What's Next
-
-- Build an end-to-end ML project using real data
-- Contribute to open source
-- Land a software engineering internship
-- Deep dive into PyTorch and neural networks
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
