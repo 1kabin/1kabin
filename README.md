@@ -8,7 +8,7 @@ I'm a third-year Computer Science student at QUT, Brisbane. I got into tech beca
 
 ### 🎓 Education
 
-**Queensland University of Technology** *(2022 – 2027)*
+**Queensland University of Technology** *(2025 – 2027)*
 Bachelor of Computer Science — AI · ML · Data Science · Software Engineering
 
 **TAFE Queensland** *(2023 – 2024)*
