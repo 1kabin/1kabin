@@ -71,7 +71,7 @@ Diploma of Information Technology — Networking & Cloud Engineering
 
 ### 📊 GitHub Stats
 
-![Kabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1kabin&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Kabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1kabin&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1kabin&layout=compact&theme=dark&hide_border=true)
 
