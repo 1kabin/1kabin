@@ -2,7 +2,7 @@
 
 > CS student at QUT · Building towards a career in AI/ML Engineering · Currently learning every day
 
-I'm a third-year Computer Science student at QUT, Brisbane. I got into tech because I love building things — and that's what I've been doing ever since. I work across the full stack, from embedded systems in C all the way up to web apps in React and backend in Java. Right now I'm focused on levelling up in AI and ML and building towards a career in engineering.
+I'm a third-year Computer Science student at QUT, Brisbane. I got into tech because I love building things and that's what I've been doing ever since. I work across the full stack, from embedded systems in C all the way up to web apps in React and backend in Java. Right now I'm focused on levelling up in AI and ML and building towards a career in engineering.
 
 ---
 
