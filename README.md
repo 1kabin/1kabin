@@ -79,7 +79,7 @@ Diploma of Information Technology — Networking & Cloud Engineering
 ### 💼 Experience
 
 - **Customer Service Representative** — Probe CX, ATO Contract *(2024 – 2025)*
-- **Food Service Assistant** — SVHA *(2023 – Present)*
+- **Food Service Supervisor** — SVHA *(2023 – Present)*
 
 ---
 
