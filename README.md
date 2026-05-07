@@ -22,11 +22,11 @@ Diploma of Information Technology — Networking & Cloud Engineering
 > Group project for CAB302 (Agile Software Engineering) at QUT. A budget-friendly fitness tracking app built in JavaFX with SQLite. I owned the entire database layer — designed the schema, built the DAO classes for meals, workouts, weight tracking and user profiles, and wrote JUnit tests.
 > `Java` `JavaFX` `SQLite` `JDBC` `JUnit` `Agile` `Git`
 
-**Rental Property App** *(2025)*
+**Rental Property App** *(2026)*
 > Full-stack web app built for CAB230 (Web Computing) at QUT. Displays rental property listings with user authentication, saved properties, and search functionality. Built with React on the frontend and consumed a REST API for live data.
 > `React` `JavaScript` `HTML/CSS` `REST API` `React Router`
 
-**Simon Says — Embedded Game** *(2024)*
+**Simon Says — Embedded Game** *(2025)*
 > Built a Simon Says memory game on a custom QUT ATtiny microcontroller using embedded C and AVR assembly. Programmed hardware peripherals directly including LEDs, buttons, and timers using PlatformIO. No operating system, no libraries — bare metal programming at the hardware level.
 > `C` `AVR Assembly` `PlatformIO` `ATtiny` `Embedded Systems` `Microcontrollers`
 
@@ -70,9 +70,10 @@ Diploma of Information Technology — Networking & Cloud Engineering
 
 ### 📊 GitHub Stats
 
-![Kabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1kabin&show_icons=true&theme=tokyonight&hide_border=true)
+![Kabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=1kabin&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1kabin&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1kabin&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1kabin&layout=compact&theme=dark&hide_border=true)
 
 ---
 
