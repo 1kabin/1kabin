@@ -26,7 +26,7 @@ Diploma of Information Technology — Networking & Cloud Engineering
 > Full-stack web app built for CAB230 (Web Computing) at QUT. Displays rental property listings with user authentication, saved properties, and search functionality. Built with React on the frontend and consumed a REST API for live data.
 > `React` `JavaScript` `HTML/CSS` `REST API` `React Router`
 
-**Simon Says — Embedded Game** *(2025)*
+** Simon Says — Embedded Game** *(2025)*
 > Built a Simon Says memory game on a custom QUT ATtiny microcontroller using embedded C and AVR assembly. Programmed hardware peripherals directly including LEDs, buttons, and timers using PlatformIO. No operating system, no libraries — bare metal programming at the hardware level.
 > `C` `AVR Assembly` `PlatformIO` `ATtiny` `Embedded Systems` `Microcontrollers`
 
