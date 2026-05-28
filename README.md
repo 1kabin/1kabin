@@ -20,7 +20,7 @@ Diploma of Information Technology — Networking & Cloud Engineering
 
 **HealthMaxxers — Fitness Tracking App** *(2026)*
 > Group project for CAB302 (Agile Software Engineering) at QUT. A budget-friendly fitness tracking app built in JavaFX with SQLite. I owned the entire database layer — designed the schema, built the DAO classes for meals, workouts, weight tracking and user profiles, and wrote JUnit tests.
-> `Java` `JavaFX` `SQLite` `JDBC` `JUnit` `Agile` `Git`
+> `Java` `JavaFX` `SQLite` `JDBC` `JUnit` `Agile``Git`
 
 **Rental Property App** *(2026)*
 > Full-stack web app built for CAB230 (Web Computing) at QUT. Displays rental property listings with user authentication, saved properties, and search functionality. Built with React on the frontend and consumed a REST API for live data.
