@@ -1,4 +1,4 @@
-# Hey, I'm Kabin 👋
+#Hey, I'm Kabin 👋
 
 > CS student at QUT · Building towards a career in AI/ML Engineering · Currently learning every day
 
